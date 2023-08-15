@@ -1,0 +1,46 @@
+h1 {
+  color: white;
+  background-color: red;
+  font-size: 100px;
+}
+
+h2 {
+  color: white;
+  background-color: gray;
+  height: 50px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+footer {
+  color: white;
+  background-color: gray;
+}
+
+.btn {
+  vertical-align: middle; 
+  float: right;
+}
+
+.frame {
+  float: right;
+  margin: 1em 0;
+  height: 35px;
+  width: 160px;
+  border: 1px solid red;
+  position: relative;
+}
+
+.sideImg {
+  max-height: 25px;
+  max-width: 160px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background: #3A6F9A;
+}
